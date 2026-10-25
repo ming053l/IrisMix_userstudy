@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {adminAuthState} from '../../lib/admin-auth.mjs';
+test('Missing configuration is distinct from missing login',()=>{assert.equal(adminAuthState(null,undefined).kind,'unconfigured');assert.equal(adminAuthState(null,'owner@example.test').kind,'anonymous');});
+test('Both identity headers and matching configured account are required',()=>{assert.equal(adminAuthState({email:'owner@example.test'},'owner@example.test').kind,'anonymous');assert.equal(adminAuthState({userId:'user1',email:' OWNER@example.test '},'owner@example.test ').kind,'owner');assert.equal(adminAuthState({userId:'user2',email:'other@example.test'},'owner@example.test').kind,'forbidden');});
