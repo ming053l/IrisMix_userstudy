@@ -1,0 +1,488 @@
+[
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/glam7g1_g2061_ref0.png",
+    "source_sha256": "80d7d82fd392ead7754981cd72124bae086de2d75e9365c48640567317b1d3fa",
+    "asset": "img/e18d2db99a82b1496c5d812f.jpg",
+    "asset_sha256": "b39f205c6fb262c4594e50a6db9db491db73550e29cc2d524822c746c910692e"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber5g1_cp003_ref1.png",
+    "source_sha256": "3914e2b00c057d12e88c82f9c6713ee1f8643e4cafa17075c576e4e2f4774193",
+    "asset": "img/b1e15b1b6a6b45c0a6dcd96a.jpg",
+    "asset_sha256": "8d645356a212af04d7ffe89a4bc07858772b74dfa6da40b0a932d047fbae5de5"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/redhood8g0_rh048_ref1.png",
+    "source_sha256": "d1a8f4478398aea14b5341e3f324fe9c63e2869495a6bc0035a053c176a947c3",
+    "asset": "img/363b16d6fd7bcd6718a796c2.jpg",
+    "asset_sha256": "f96ac948eb45e8cb32a3ac37f2f9ea45de2edc8473c8ce82e0a064bb158fa5b5"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g11.png",
+    "source_sha256": "0ef772d2ef4f451ce4a89751c84adce5efff62dfa4e8b54b4024502baa0cf2f4",
+    "asset": "img/84d649d4afd9e066d24bdf38.jpg",
+    "asset_sha256": "31de502d2b259759cf26669322ca6b0d3d3af8d6fee50c6884a3984e1863898c"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g11.png",
+    "source_sha256": "b780a28216110bed38ead3e19fc5c545e1c9d9492cfa5b37b106825e498f96d5",
+    "asset": "img/73f5f7dabde79eef51841c7f.jpg",
+    "asset_sha256": "563b000f5a38fa5fd7f3b518ce35485dfbe24eb1ccf92234354f641be0f2d878"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g11.png",
+    "source_sha256": "83b8369e0a2b4b618964a0806db167e8e202d4713bd4b0f1aba686c75bb29678",
+    "asset": "img/de110764c666ed14adc1040b.jpg",
+    "asset_sha256": "3d97295a514f61b609340fcea68aae6f8ccd7a2c867531b179443277c21e34b9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g11.png",
+    "source_sha256": "0b72c5364f4cd6c6bef267c691773d2fba2127c0d43f604fdf9c3a5ae4525689",
+    "asset": "img/cc9ba36578e8d608b3ddea18.jpg",
+    "asset_sha256": "47d392673fe2bda985202f70ceda317940d994d82dd8e65f84ff8d0405a9824b"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g11.png",
+    "source_sha256": "d05f0d4146e2ae3d9306fe84d23ff0a062151291c5c327cd86f3e6e8fcf0ec4a",
+    "asset": "img/dac5e4ec89a62902f7e1f87c.jpg",
+    "asset_sha256": "01150aa90e5d4c3da29697cd8967847f43004640bf43c2f2e92ed7926befff29"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g11.png",
+    "source_sha256": "1f32d888f627af8e3d58427dd92ba4d1c2a3e6586f1e0d24b5169c797ebac754",
+    "asset": "img/915d6276cb26b18cbbdec15c.jpg",
+    "asset_sha256": "42b8422cc291f43aa0f0f16c1d2df6734b4545a6b633963fc64b7f80e816ca57"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgbold22235g0_b2079_ref1.png",
+    "source_sha256": "0026d6c5cde1623c99a5b9debe0d7d9984cf5c1b6513a7a100372312e0fcb88b",
+    "asset": "img/f06dfb7ebedb51e9abd6e52f.jpg",
+    "asset_sha256": "3fe55d6a6dc2929db6994579919002c1cafa99962dcd010539442bbf749cb8a2"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/street2x6g1_s2013_ref0.png",
+    "source_sha256": "b0043ee08723e73e72fb8e9941b99b07237b548923214cda174e6bca06c5bc60",
+    "asset": "img/a87dfbfb66ad6a3d8b5959a8.jpg",
+    "asset_sha256": "4d69a027623d73c6122831e580d1602f6e9e3863e8bd53d7de11c4b2213b8837"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgstreet22235g0_s2087_ref0.png",
+    "source_sha256": "861c458af468eddc3067cc48b4a935aebdfcdf0167278a929f5cbe049fc545ba",
+    "asset": "img/93d03db2802dc41ae7c4650e.jpg",
+    "asset_sha256": "6990efd0fbf3697940600af61f873e6e7b0b5fef0a6e578b494872bc2d798732"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g22.png",
+    "source_sha256": "1d81687f6b869aae10ddef7b86d68eebd78e72a8ce9bc0f128a864ffc35518ad",
+    "asset": "img/c78d7b47aa2b837a2452ab8e.jpg",
+    "asset_sha256": "9789c86c2fa17726405d6cdb4da967ca799560e026bd1b957b0a3a71657bebe3"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g22.png",
+    "source_sha256": "7577dee4f2962c73073590c5a0bb16e8194e811755c33cbcedbacb3072bc8a3d",
+    "asset": "img/ec4adfa1194a7a2573bd5f17.jpg",
+    "asset_sha256": "48998a14d4fd18bd1659aff25d79442c31966e10fc661bff9623e8431a1406f2"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g22.png",
+    "source_sha256": "ef111b186572e6c97010a5628fa8c57fbb1e1376ec4672b50a43f8ee48e83077",
+    "asset": "img/02c83e09126a60a189a546ef.jpg",
+    "asset_sha256": "20902dd480f1770bb9233f425f1d8c335fdf09ce2e2487d64cf6f542521c1bc1"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g22.png",
+    "source_sha256": "0059ff09bdc3f0d3c52123e89af8de0beb1188e9b761e9b29f3892392dee82d3",
+    "asset": "img/410b045d5eca8bd1075ecc50.jpg",
+    "asset_sha256": "25604c2adaff44219326cad3e1352c43251bd310bc335b157a4804ca14fb8ac3"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g22.png",
+    "source_sha256": "66028d059fe92bb6a1425accbc6c4e5aa5280929a8d602ff79881d697bc1fda4",
+    "asset": "img/d447c1e267cbd571efba7de7.jpg",
+    "asset_sha256": "135361a97445eb303dba312fe38915cf7342c36dfb83ba4cc5e68e01d78b6f29"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g22.png",
+    "source_sha256": "acd32c35ab875f7c723d7c3805999b46606f9a2efa040f0cccd895feb69274f7",
+    "asset": "img/b08d13b4c60972d60e72bf37.jpg",
+    "asset_sha256": "c1a27c0b5184d0002771a65b5732412b9a43c06a718aac1b3bd420bd328a8ebf"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/eufairy32g1_ef037_ref0.png",
+    "source_sha256": "c13e4bc1769fa41913af97fecbb5593013e9aafcc880a36fe78e5375b209b06f",
+    "asset": "img/7ed76ff91af601fdc3596d77.jpg",
+    "asset_sha256": "8aea120e919caaa82d1ffb36bd0f7239db9be9bbf906a0a379a744ab59ec9efb"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/tb044_ref0.png",
+    "source_sha256": "58569e0d0d376786ec6be4c52255972d6453ac1511fd42a8956be5bc44f6a675",
+    "asset": "img/72bf59f48f6d3b6e9f43d358.jpg",
+    "asset_sha256": "e3aaa93cbaeebc80274a9858290df81690f1024b81e350c37e90150e8498b35b"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber5g1_cp050_ref1.png",
+    "source_sha256": "26f197d025d6f289372cf6b1c52c8b5c03a32678b3f2a3b607b3356677ce44f6",
+    "asset": "img/9b8bf54449d750e8b632b421.jpg",
+    "asset_sha256": "b443ec44a60641b6b662efdf4fae957178b5be99d7a8a86b8efa5ad8312f13b0"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g40.png",
+    "source_sha256": "16fdff2ee5dfa03d99459451669f758a1b6cacde14288800d46f93f56cb23689",
+    "asset": "img/5d7bf604c63513373b19684a.jpg",
+    "asset_sha256": "dcb5fefb26ca3b5d8d901d08ae062b3ff14d71fee6f587f5bbbc4602a5b8449b"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g40.png",
+    "source_sha256": "9e7e4caab6fa4426e49757b4343ef0471be79c4f3f3f3b3fe1082505821a1b64",
+    "asset": "img/209033837d82a6004174fa3c.jpg",
+    "asset_sha256": "6d2c6230015ccaff1f9e46a48f9dab42d969f0ce281b426ac40f2bc50468ac03"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g40.png",
+    "source_sha256": "3711cc1d47c1b8f253dcf7582754753d0a87e1fc4816cc27a71e698b98d683b4",
+    "asset": "img/0e91a5767c6371dc11ee35c8.jpg",
+    "asset_sha256": "55d34f5b10c9b3689eeb85369ed4ba04a57031830edf3a3296e730d6ef4b274f"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g40.png",
+    "source_sha256": "0f4af854a7e14967f36606fa21324691b6abc20b7ad1287f481739f0078b2c69",
+    "asset": "img/6d7cef74f89ec8e0d9a7c9bf.jpg",
+    "asset_sha256": "1a0cad72983d1300e16b2fc7abe9f233fb6bab08485b856701e1253aa16fa1bf"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g40.png",
+    "source_sha256": "7997e7f9988a0ed6e2283426694824cc7c36798ac667a8f089150e5427b1d9bc",
+    "asset": "img/9c2b6b4833494d3b89c2b9ba.jpg",
+    "asset_sha256": "c77ba2be99ff7646ca5a0d78a24f6bed8be7cea3306d1cf007a930f27898336d"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g40.png",
+    "source_sha256": "721a0f36cb4bbe2cbcabac13ad99811dd64b55d376c97d74720fb682d78269da",
+    "asset": "img/91b8d83bcd321b9237a5aedc.jpg",
+    "asset_sha256": "053d7905fca71b61403f6847858849e90399b5fe6050d21ef5fc1b453c847770"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/art2x2235g0_a2006_ref1.png",
+    "source_sha256": "e1842c5e76d1305d560fb4595a1992a636066f3a24f4ab06d5be0f3444f8d5c5",
+    "asset": "img/b777557980556f648a101bfd.jpg",
+    "asset_sha256": "0d428d13f33771c714700f72bbbac7324b19fb87debc5eff59705f1565012adf"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber2235g0_cp017_ref0.png",
+    "source_sha256": "0387e2a67f9081f963dd119b80cb380a00ba1331f97de76d2a6a2f7ea57f882a",
+    "asset": "img/57a7e75a5145a4192838a270.jpg",
+    "asset_sha256": "cddce40f60cfa9cb081d491069669f97ed715cc3088bf6851b7fca47a75f4877"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/wuxia2234g0_wx010_ref0.png",
+    "source_sha256": "6d4ee7612b539d46efd0b5293265edc8459671171d3760f646ff6621d46f7863",
+    "asset": "img/124165d6c4f10a3e2b461bf3.jpg",
+    "asset_sha256": "f98a0dd5730bb0f6fb902fbaa94778761d65188c8bfa381551853b9ef3a18c16"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g54.png",
+    "source_sha256": "d8b8484252c50e7e335770be6fd1eec5783cc57e17342f341fec19c42b6981b7",
+    "asset": "img/ee8d98814db2548354ace897.jpg",
+    "asset_sha256": "73bda1089f0e8377d118259d9eb9555ba28384de0b7a43f87b6a433c3b1acddc"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g54.png",
+    "source_sha256": "13404b3c22513c3f0767ee97047d638313906d25f5a941414fcb14d371bb3e91",
+    "asset": "img/c406d2ee8cc668fbd2f7e175.jpg",
+    "asset_sha256": "7c89b452c948e6597b757569c2da964236f29ec6d4172d16946c27e0873ff32d"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g54.png",
+    "source_sha256": "23b55f9fa3f6c0ab70c53c1b4a8d5f5ae7ab4ddeb050024205d948ae17372db0",
+    "asset": "img/452207969d1f37a6c9895185.jpg",
+    "asset_sha256": "619d29c6c6f9fa48f3d484d1f53bf452b800c29f49bba9f6de97b2dd3fadaa87"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g54.png",
+    "source_sha256": "1569104c8149919e6ccccee94016aef8d739c582fd2e4b14e53a12fb018b7943",
+    "asset": "img/ebf9f83f041f365ddd209728.jpg",
+    "asset_sha256": "b4e23b6854c53fea36a0420f18800ed47581b3c8a61fa6f62ce606dc3ec74602"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g54.png",
+    "source_sha256": "3236b932e9df55882756ff93b02dbeca55e8bc3d77ed192e3132ff8c3ec7910a",
+    "asset": "img/24fc926470d9a9a16d98d256.jpg",
+    "asset_sha256": "4877c7511f647cc06c81281a78f832506bee4866b56ff9e7134ef86727d36aa1"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g54.png",
+    "source_sha256": "675ade366666c30e2a41460258e6c9a9f2e7a2e744eee7bd1befe23ac18b8c65",
+    "asset": "img/dd0fe03e94ee96fbde7b61b2.jpg",
+    "asset_sha256": "aaaca2dd033c76f42a5a560513f914602d1d7a1d7a2d1b6fef338e470966ea88"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/jingju6g1_jj035_ref1.png",
+    "source_sha256": "200dbffe7ac4b05e42559cd35e2bf96b4fc18a71c100d81586306da6d862b040",
+    "asset": "img/e9049b3ca4b18f8bbc5986f0.jpg",
+    "asset_sha256": "9f51200fa588ccd9a59e26d4c485b0eabe67016e1623f5faa02863b2bc6307e3"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/eufairy32g1_ef040_ref0.png",
+    "source_sha256": "a263df92eee30e97587d260a90792bcee74db78d508ad947de10ae4cb1d22b02",
+    "asset": "img/e3e728c1155bdc5b0149c0ec.jpg",
+    "asset_sha256": "ca05e18449de7ac383d891c5773b9ce549a3f42ae5d43569d85daf5829f16ee7"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber6g0_cp022_ref0.png",
+    "source_sha256": "ce6d7220d508480972caf01f5a818a06d9580b58e7038e38f51173bb9c6657f5",
+    "asset": "img/85ccab78d786106ea3b70b5e.jpg",
+    "asset_sha256": "24c9516fe708b74116767ac1f9d616a89a4516c86f7d8bf59a09aa3ab899cd02"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g66.png",
+    "source_sha256": "6f4ce2e6496dbcaf682a8677ba53f46b66184bc2735e2b53d40dc1df5c3e41f7",
+    "asset": "img/0a1ce61932fc323f1396f6d2.jpg",
+    "asset_sha256": "1b550eda668277995db8ceddeb2aef5be046d6b12cf29470d9432f02f348b740"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g66.png",
+    "source_sha256": "2583adaab8ad325aab4cb8f3b76bc89197814506338adb94d8553a584a9d41d3",
+    "asset": "img/1d4fc10af0e529ee18dd3e8b.jpg",
+    "asset_sha256": "83d67a68fac7c9e74aa0cd11eef18336e6ee038946b7c1d6b93cff08ccbc62d4"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g66.png",
+    "source_sha256": "fd509c5ec614f54d4a5c3a44eeb4757e37b67dbce5803ff23ddb6a3d24ea1eb6",
+    "asset": "img/35e02d948d457fdef344ac2c.jpg",
+    "asset_sha256": "6a571899630ec246379fbc525994e149065bf522407d56d35315cd70da32eb65"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g66.png",
+    "source_sha256": "7cf8ffeaaacf406d2db5b281e69f55ee3a357ad595442c7471f4897fc15c6d05",
+    "asset": "img/31e2d081981c9b8f3cc693a4.jpg",
+    "asset_sha256": "8f819c36e2832b6b68e12bc115f1c79c7e692a38d13dcc1b655c4c0266fa2eb0"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g66.png",
+    "source_sha256": "6cd6db0d6b26dde2af0033836e1e35861c7612d490207c0f355217cdb29b6e08",
+    "asset": "img/583b21d402fae917477c33f2.jpg",
+    "asset_sha256": "32f3ede25ded9a42385509fddbdcd22040302c173d6a834f445dbaa21484b561"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g66.png",
+    "source_sha256": "b70c1eb7b68df1df05d79e2fe7858edc47bec47d6fa078b4a130f2014aa63a96",
+    "asset": "img/b8f5fdf2819805626d8eecbd.jpg",
+    "asset_sha256": "956503914b2b527373330999fb6417988515f00530b4ea5a2a63e5ce7da00c23"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/eufairy5g1_ef005_ref0.png",
+    "source_sha256": "f0ebd3eaf94c5c1bfa2d5717d962ece0f23bdf95adfe033b4bb1b7d093e64423",
+    "asset": "img/8f7f4e61d492d0de6144cfec.jpg",
+    "asset_sha256": "aab91268722521b90f1e589dc46ccc96b3b49972f9d9aafb8972b1b7016c7bf9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber5g0_cp014_ref0.png",
+    "source_sha256": "37214a0bbbaa493a19efe0faa7cd4147a97cc816c4d3dff20c487c4302698a86",
+    "asset": "img/5a0ad4827993f84cfa848813.jpg",
+    "asset_sha256": "7fc771e260c03297b97b5d1e353527e17f8958cf1a2cf37716e03c677638e1b0"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/street6g1_ts075_ref2.png",
+    "source_sha256": "ed103e175fdd9468c517c1c578e191a989fc620a1d3cec8dfc308a3a5f4bcb39",
+    "asset": "img/21f12d4f7406208fe81e06b9.jpg",
+    "asset_sha256": "a067e15278b72cd36f166fe0dde51072f0b3a41e86259da9caebd410f08f39b9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g70.png",
+    "source_sha256": "4e6090757eea16daf3303a475e26696cb22390c6ce92eee2214f7a10be0fdf8b",
+    "asset": "img/59684a1f32748376692dbd33.jpg",
+    "asset_sha256": "10a7a73e9a2eedfc688b7296146795822205e5b3d77a31c36d5f6d334ee05fb9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g70.png",
+    "source_sha256": "a0d0818123529b873599f9fbaf7e20362ca8a95355b6c6cb2f14ae0241e11ee8",
+    "asset": "img/1099618f523ebedad13308c1.jpg",
+    "asset_sha256": "dcbcea578931362a11dd503d517343e551d7893d5579d9e4507cb7b3eba1262a"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g70.png",
+    "source_sha256": "97973250d9d007c74089226368b4099689cda77c789a0c5b5564a16db39c400c",
+    "asset": "img/73f371289cea05468833105d.jpg",
+    "asset_sha256": "52ac0172548b52958a6904571656aaabf9d3250728cae6db92dd4c721fc8136c"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g70.png",
+    "source_sha256": "69d7050767bcf7acf607a7be3772fc62fad9a3772a67709c75ed14620ec8cfdb",
+    "asset": "img/86d195b4a4ae306b2bb7318b.jpg",
+    "asset_sha256": "bcffe8230d247629661171ef613f6dfd9fa0b9d27518dd377d80120f2db37661"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g70.png",
+    "source_sha256": "fc164bff317f5c5a1c62b4606486b91a2f6855fb4428e81640e2be408fc3e3c0",
+    "asset": "img/9c228d9461fec2d0207715b2.jpg",
+    "asset_sha256": "6c355f2fd738c2bcee92dd2788155e719e07a09158acd384c28d519a0b2d7c60"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g70.png",
+    "source_sha256": "48fa1b6e685fb721ca058e25f1c693a0dfbb16ad6f7e0c681bba577143febcd8",
+    "asset": "img/367ebeeedee06bafe38876f4.jpg",
+    "asset_sha256": "39ac5551eebc2ee6518c4bdde436883b7fb89731de6c40df279e3b6939555910"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/art6g1_tv075_ref0.png",
+    "source_sha256": "cea86bb7d1f4e4b54b7bf0e95349e921174fdcfd3cd36d43dba57b3465641024",
+    "asset": "img/de6526595bc294fc77ca3234.jpg",
+    "asset_sha256": "d1baafa9722ab3326ecbd01e62e16c1190a934edabdedfb958054b612c24036e"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/bold2x6g1_b2073_ref2.png",
+    "source_sha256": "eba092c8c312d90cfe9101e0ca2f564b225aa3ca89f1306cef1facda5c62cd2e",
+    "asset": "img/871b210bbae4b7f159ccd796.jpg",
+    "asset_sha256": "84bdd376cac4691cf2ae0c3c9e701c4c1258e3dee9bad6deb1143a37cc6421db"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/cyber2235g0_cp029_ref1.png",
+    "source_sha256": "d0bb62e319373d291253010f9d0c4c6130b2d9ee074ff70ecf0d7edd9330fa07",
+    "asset": "img/e0158519ed912c356c5287cf.jpg",
+    "asset_sha256": "df378ccb9169e0cc2d6714ba658c47b549bf6323f3c8f746945b6d1afc8a9e3f"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g71.png",
+    "source_sha256": "587903b468d5e4ef335175bed5f77701f064f41f373ff65a8e4316b1bb01a225",
+    "asset": "img/545806078369e03b771dd0b3.jpg",
+    "asset_sha256": "58d28e4655c77ad44e6a1b08099b409ab1fd5884cd66db6226e969e1de5e5917"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g71.png",
+    "source_sha256": "86e254a5d719d16f8f713a86e08e563cce160791a03be0c4ad6fcc58ccc23faf",
+    "asset": "img/7d9a562425f04d03ca98447f.jpg",
+    "asset_sha256": "43f386b208256e739ac71233de581517ff67ba7e96ec98990361c944e9ceba50"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g71.png",
+    "source_sha256": "3751c63f88f3cf2b6df845dfdbcbb543b6411f63462697b2f47438f2ce942633",
+    "asset": "img/59d9e05aa70b3dadb31a1dc9.jpg",
+    "asset_sha256": "03b2dc5df63c065f52a0f77bc2b1bf6d2bb70500f1fad571f99e526115b4d339"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g71.png",
+    "source_sha256": "1e04e080d3bdc29dd1e0d08c34c4217d7a2cfd48d1ce9122062424140be6d627",
+    "asset": "img/eb84593cd3e2d70454ddaf21.jpg",
+    "asset_sha256": "c33406edea7748804d7698c65667b05430e324c57d763aa494eb08ba54a273df"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g71.png",
+    "source_sha256": "b8ec59335f235d77365e41e44ee208cef32b7eea26d7abc26316d2513a4e9336",
+    "asset": "img/772fe3cd9fc4b18df54435f3.jpg",
+    "asset_sha256": "a31e6acf119668762a2006e0cae513c115a0dd65e1fd1c3aef46f71ae7a9d088"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g71.png",
+    "source_sha256": "86468cefd84967986203e61970f7df737d4f04842c5d46689e5649f3475a4af2",
+    "asset": "img/d293bd2d77d37742d5268164.jpg",
+    "asset_sha256": "b443821260fd58f10635b1c651ed78e81d02f156c6d3d68b67b607ca9e0e2f37"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgdalien2235g0_al004_ref1.png",
+    "source_sha256": "0bba28d5b98d41545bd4089708ca086944c19c8800577ecea62a91a14d63cea6",
+    "asset": "img/ce489604c7e0b067b97f371e.jpg",
+    "asset_sha256": "a9315884dec9101abac954b40cf32e245b9557c048005cb610f23e0f9f35ff37"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgart31g1_tv138_ref2.png",
+    "source_sha256": "c77849abc406d4294a4edac417b060db20bf9b5ae6ae9a3784056c30872e67fa",
+    "asset": "img/69b4685bb8d3a065132fa623.jpg",
+    "asset_sha256": "910b6bc839a58ee1f8f289c13a7ceab4d03bc9eb8664f909cf79d053d625f450"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgdceo2235g0_ce037_ref1.png",
+    "source_sha256": "ddacdb4c500b886ba1b0b701386650f243831cde08e87c8cad568d8883d319f4",
+    "asset": "img/4d22b6b7d701e240cc0d4a24.jpg",
+    "asset_sha256": "af9a51b69238c0043deb81627e0baf380eb02956a433992bb8f74548b7ee6099"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g81.png",
+    "source_sha256": "0be0c5f42ba98e016aef743af5676823302e63bad1239fa8b6b1084e122dd3db",
+    "asset": "img/706c7491dcb2dcc3837a4607.jpg",
+    "asset_sha256": "5fc91d1ed817d96e72e7708af0c458c04986bdd00a79f8b3459aa2fe23766be9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g81.png",
+    "source_sha256": "7ef88a0b47655f413e8802d36d1f6dd8594472645a315c1f23547aaef4bc693d",
+    "asset": "img/5396973934217e20be1f9e4c.jpg",
+    "asset_sha256": "4a9faba8c98daf9f8c76d8a7477dc342459f4e61cbfd89ce40f6feea30503831"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g81.png",
+    "source_sha256": "b031df798365c69749096e97e4dd25bfdfd4d8508b19cdace0a722af4bd240cb",
+    "asset": "img/43e7ae244ac61ffc62a4c1f0.jpg",
+    "asset_sha256": "1ec970225d58bc01981cd46f30a500c493544f3cbec3c9bcce44b2a43a45169d"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g81.png",
+    "source_sha256": "f23228c72e79dbae742488fc7ea457e09f8cc6232592e9ee75c08053db5f12df",
+    "asset": "img/95fd73628c2db886174143a8.jpg",
+    "asset_sha256": "e2cb2bd44343995d3e32f51665f2daffaff294fcf81893444afc1bb9cca62c20"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g81.png",
+    "source_sha256": "5e7ba68bfcb8710937d8d0801d083edb096456d2d1e6a4f5bab04a9c104c84ed",
+    "asset": "img/0f49f0a2d416c9d6e5b9f065.jpg",
+    "asset_sha256": "be69cf164224177f5e9b68a4770c9572e16d35b596648c237441e7ab6e4002b9"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g81.png",
+    "source_sha256": "0dcffd25d5c663f359b84e143f431ccc533fe9c10767429ba938558f669aacd2",
+    "asset": "img/a0023b7fa723e23a5f0af972.jpg",
+    "asset_sha256": "51c487332598ec8f7a5ab546688470c8137b7cbc845d528156b2f1682c4bcc01"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/smoky6g0_sm010_ref1.png",
+    "source_sha256": "47dec9cf8903f2236dc9179183d27ff03e1246ba5c07d9dbf3614041eee43d31",
+    "asset": "img/679d9fb9e1022425c8696f1c.jpg",
+    "asset_sha256": "05ce0ad7e76218ad7b43bf9d83d303ac0253dac9285e412367e0c0ce865d4bb4"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/miao2234g0_mi022_ref2.png",
+    "source_sha256": "a47502eedd6193835275f15194ec873dc10d1c11c4e32198f978aa8369a60d91",
+    "asset": "img/4d3615007e17a95e189b8551.jpg",
+    "asset_sha256": "14f234b31172bac110ef880395034c1e089a4afa1669c8585f3270cdaa4e7fa4"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/refs/fairgdart31g1_tv047_ref1.png",
+    "source_sha256": "68ca74b026956540445ac5f77cc01e33298c80964926d108a133d5604590b97b",
+    "asset": "img/4c84049a2284e7a62ada3639.jpg",
+    "asset_sha256": "a6a25c37ad853b27fa8088ac5a6174d02f37ec2cbbf9f076f48d4c9a30e026f8"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/src/g89.png",
+    "source_sha256": "843c3126479ca50dd02e69b777a1c9c65649c6becc7826096a06192e49f1e5b5",
+    "asset": "img/7ba9baf5cd80ea7fcaf75fa3.jpg",
+    "asset_sha256": "91276cc0231307de2e4e41f56e3750b50814cf6e937e3a90ded45f2205783fb3"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/stage2_paper/out/hybrid/s2v2_full3000_c2o3_300_p065/g89.png",
+    "source_sha256": "76ba532e7c02b9fe19b0a788dfad5d984614c47798fc2e7fd6d216769daebc47",
+    "asset": "img/340beb590d1b435f99a636eb.jpg",
+    "asset_sha256": "f1e9b45a89fe712f9e97197477b9c6fe6372418ff2a0c19f9a2e74096e614513"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/mm_chain/g89.png",
+    "source_sha256": "f5d9739d918e2e6a096a3837644ae7a76f0745ac8297935e10db0cb6b5b3922e",
+    "asset": "img/d3a70f996687a2e86536d3f2.jpg",
+    "asset_sha256": "3400eb7a768749f89c5027745da2aee3e8bc31acdd11a1726d0c489769a49654"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/art/g89.png",
+    "source_sha256": "24f20d5c8a687c8472438e203639249420c387aa2c9ab6392842e1ad1bf711b2",
+    "asset": "img/c841c8c6adc169e986bc2e91.jpg",
+    "asset_sha256": "78a1cf3977d0a13146c6d5c5372366511bcee51d10c19e9e64a1b413b8fba374"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/fluxmakeup/g89.png",
+    "source_sha256": "2f1b1e0c68198b0ca2b6e671a8e1bcfc3ebf4fe1217366ff586889339059e706",
+    "asset": "img/77a68f81889fd37647bf3beb.jpg",
+    "asset_sha256": "d0770b86f9abd2ea9d7bf615b331dd51a427a760764ba67d5f6c3de164fafb10"
+  },
+  {
+    "source": "/ssd1/chingheng/FlashMakeUp/work/gpt_compare/stablemakeup/g89.png",
+    "source_sha256": "36b0696cb5bdb3772b5c18cf52e60a3b68be72dc21c1c8a57a66e9e2654ec1d2",
+    "asset": "img/56ff8968218e36b2a69d5a93.jpg",
+    "asset_sha256": "198364fe81451eff6ce9a19f25c8f3809e8c8c14b56d28621867c36c76d77b95"
+  }
+]

@@ -1,0 +1,13 @@
+import {db,manifest,config,validateResponse,isOwner,cors,json} from '@/lib/study';
+export async function OPTIONS(request:Request){const c=cors(request);return new Response(null,{status:c.allowed?204:403,headers:{...c.headers,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type'}});}
+export async function POST(request:Request){const c=cors(request);if(!c.allowed)return json({error:'Origin not allowed'},403);const h=c.headers;
+ if(!(request.headers.get('Content-Type')||'').startsWith('application/json'))return json({error:'JSON required'},415,h);
+ let text='';if(request.body){const reader=request.body.getReader(),decoder=new TextDecoder();let bytes=0;for(;;){const part=await reader.read();if(part.done)break;bytes+=part.value.byteLength;if(bytes>100000){await reader.cancel();return json({error:'Response too large'},413,h);}text+=decoder.decode(part.value,{stream:true});}text+=decoder.decode();}
+ let body;try{body=JSON.parse(text);validateResponse(body,manifest);}catch(e){return json({error:e instanceof Error?e.message:'Invalid response'},400,h);}
+ if(body.is_test&&!isOwner(request))return json({error:'Test submissions require researcher access'},403,h);
+ if(manifest.mode==='formal'&&(!manifest.frozen||!config.recruitment_open)&&!body.is_test)return json({error:'Formal recruitment is closed'},409,h);
+ // Retain only the declared study fields. No IP address, email or user-agent is stored.
+ const clean={rater:body.rater,materials_sha256:body.materials_sha256,mode:body.mode,started:body.started,finished:body.finished,lang:body.lang,exp:body.exp,consented:body.consented,is_test:!!body.is_test,trials:body.trials.map((t:{gid:string;base:string;check:boolean;ours_left:boolean;ms:number;a:Record<string,string>})=>({gid:t.gid,base:t.base,check:t.check,ours_left:t.ours_left,ms:t.ms,a:{makeup:t.a.makeup,identity:t.a.identity,realism:t.a.realism}}))};
+ const payload=JSON.stringify(clean),hash=[...new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(payload)))].map(b=>b.toString(16).padStart(2,'0')).join('');
+ try{await db().prepare('INSERT OR IGNORE INTO responses (rater,materials_hash,mode,payload,payload_hash,is_test,received_at) VALUES (?,?,?,?,?,?,?)').bind(clean.rater,clean.materials_sha256,clean.mode,payload,hash,clean.is_test?1:0,new Date().toISOString()).run();const stored=await db().prepare('SELECT payload_hash FROM responses WHERE rater=?').bind(clean.rater).first<{payload_hash:string}>();if(stored?.payload_hash!==hash)return json({error:'This response ID already has different answers'},409,h);return json({ok:true,stored:true,rater:clean.rater},200,h);}catch{return json({error:'Unable to store response. Download a backup and retry.'},503,h);}
+}

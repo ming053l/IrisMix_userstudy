@@ -1,0 +1,258 @@
+{
+  "version": "irismix-public-v2-1",
+  "mode": "pilot",
+  "frozen": false,
+  "created_from": "pairs_100_v2.json",
+  "pairs_md5": "98e7fb4cfeebaf0cc776f9c01734c0be",
+  "pairs_sha256": "6a7d66d14383db2ae3cc17e0dc21e7835629220e4da8deafe88c2567b1f4b2e9",
+  "source_policy": "public LayerBeauty v2 only; no CPM-Real or MF2K",
+  "ours": "ours",
+  "baselines": [
+    "magicmakeup",
+    "art",
+    "fluxmakeup",
+    "stablemakeup"
+  ],
+  "per_baseline": 1,
+  "attention_checks": 4,
+  "expected_trials": 8,
+  "availability": {
+    "total_looks": 100,
+    "complete_looks": 9,
+    "method_counts": {
+      "ours": 100,
+      "magicmakeup": 9,
+      "art": 68,
+      "fluxmakeup": 70,
+      "stablemakeup": 100
+    }
+  },
+  "looks": [
+    {
+      "gid": "g11",
+      "src": "img/84d649d4afd9e066d24bdf38.jpg",
+      "refs": [
+        {
+          "img": "img/e18d2db99a82b1496c5d812f.jpg",
+          "part": "eyes"
+        },
+        {
+          "img": "img/b1e15b1b6a6b45c0a6dcd96a.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/363b16d6fd7bcd6718a796c2.jpg",
+          "part": "face paint"
+        }
+      ],
+      "outputs": {
+        "ours": "img/73f5f7dabde79eef51841c7f.jpg",
+        "magicmakeup": "img/de110764c666ed14adc1040b.jpg",
+        "art": "img/cc9ba36578e8d608b3ddea18.jpg",
+        "fluxmakeup": "img/dac5e4ec89a62902f7e1f87c.jpg",
+        "stablemakeup": "img/915d6276cb26b18cbbdec15c.jpg"
+      }
+    },
+    {
+      "gid": "g22",
+      "src": "img/c78d7b47aa2b837a2452ab8e.jpg",
+      "refs": [
+        {
+          "img": "img/f06dfb7ebedb51e9abd6e52f.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/a87dfbfb66ad6a3d8b5959a8.jpg",
+          "part": "eyes"
+        },
+        {
+          "img": "img/93d03db2802dc41ae7c4650e.jpg",
+          "part": "forehead"
+        }
+      ],
+      "outputs": {
+        "ours": "img/ec4adfa1194a7a2573bd5f17.jpg",
+        "magicmakeup": "img/02c83e09126a60a189a546ef.jpg",
+        "art": "img/410b045d5eca8bd1075ecc50.jpg",
+        "fluxmakeup": "img/d447c1e267cbd571efba7de7.jpg",
+        "stablemakeup": "img/b08d13b4c60972d60e72bf37.jpg"
+      }
+    },
+    {
+      "gid": "g40",
+      "src": "img/5d7bf604c63513373b19684a.jpg",
+      "refs": [
+        {
+          "img": "img/7ed76ff91af601fdc3596d77.jpg",
+          "part": "forehead"
+        },
+        {
+          "img": "img/72bf59f48f6d3b6e9f43d358.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/9b8bf54449d750e8b632b421.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/209033837d82a6004174fa3c.jpg",
+        "magicmakeup": "img/0e91a5767c6371dc11ee35c8.jpg",
+        "art": "img/6d7cef74f89ec8e0d9a7c9bf.jpg",
+        "fluxmakeup": "img/9c2b6b4833494d3b89c2b9ba.jpg",
+        "stablemakeup": "img/91b8d83bcd321b9237a5aedc.jpg"
+      }
+    },
+    {
+      "gid": "g54",
+      "src": "img/ee8d98814db2548354ace897.jpg",
+      "refs": [
+        {
+          "img": "img/b777557980556f648a101bfd.jpg",
+          "part": "forehead"
+        },
+        {
+          "img": "img/57a7e75a5145a4192838a270.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/124165d6c4f10a3e2b461bf3.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/c406d2ee8cc668fbd2f7e175.jpg",
+        "magicmakeup": "img/452207969d1f37a6c9895185.jpg",
+        "art": "img/ebf9f83f041f365ddd209728.jpg",
+        "fluxmakeup": "img/24fc926470d9a9a16d98d256.jpg",
+        "stablemakeup": "img/dd0fe03e94ee96fbde7b61b2.jpg"
+      }
+    },
+    {
+      "gid": "g66",
+      "src": "img/0a1ce61932fc323f1396f6d2.jpg",
+      "refs": [
+        {
+          "img": "img/e9049b3ca4b18f8bbc5986f0.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/e3e728c1155bdc5b0149c0ec.jpg",
+          "part": "face paint"
+        },
+        {
+          "img": "img/85ccab78d786106ea3b70b5e.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/1d4fc10af0e529ee18dd3e8b.jpg",
+        "magicmakeup": "img/35e02d948d457fdef344ac2c.jpg",
+        "art": "img/31e2d081981c9b8f3cc693a4.jpg",
+        "fluxmakeup": "img/583b21d402fae917477c33f2.jpg",
+        "stablemakeup": "img/b8f5fdf2819805626d8eecbd.jpg"
+      }
+    },
+    {
+      "gid": "g70",
+      "src": "img/59684a1f32748376692dbd33.jpg",
+      "refs": [
+        {
+          "img": "img/8f7f4e61d492d0de6144cfec.jpg",
+          "part": "face paint"
+        },
+        {
+          "img": "img/5a0ad4827993f84cfa848813.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/21f12d4f7406208fe81e06b9.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/1099618f523ebedad13308c1.jpg",
+        "magicmakeup": "img/73f371289cea05468833105d.jpg",
+        "art": "img/86d195b4a4ae306b2bb7318b.jpg",
+        "fluxmakeup": "img/9c228d9461fec2d0207715b2.jpg",
+        "stablemakeup": "img/367ebeeedee06bafe38876f4.jpg"
+      }
+    },
+    {
+      "gid": "g71",
+      "src": "img/545806078369e03b771dd0b3.jpg",
+      "refs": [
+        {
+          "img": "img/de6526595bc294fc77ca3234.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/871b210bbae4b7f159ccd796.jpg",
+          "part": "face paint"
+        },
+        {
+          "img": "img/e0158519ed912c356c5287cf.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/7d9a562425f04d03ca98447f.jpg",
+        "magicmakeup": "img/59d9e05aa70b3dadb31a1dc9.jpg",
+        "art": "img/eb84593cd3e2d70454ddaf21.jpg",
+        "fluxmakeup": "img/772fe3cd9fc4b18df54435f3.jpg",
+        "stablemakeup": "img/d293bd2d77d37742d5268164.jpg"
+      }
+    },
+    {
+      "gid": "g81",
+      "src": "img/706c7491dcb2dcc3837a4607.jpg",
+      "refs": [
+        {
+          "img": "img/ce489604c7e0b067b97f371e.jpg",
+          "part": "lips"
+        },
+        {
+          "img": "img/69b4685bb8d3a065132fa623.jpg",
+          "part": "face paint"
+        },
+        {
+          "img": "img/4d22b6b7d701e240cc0d4a24.jpg",
+          "part": "eyes"
+        }
+      ],
+      "outputs": {
+        "ours": "img/5396973934217e20be1f9e4c.jpg",
+        "magicmakeup": "img/43e7ae244ac61ffc62a4c1f0.jpg",
+        "art": "img/95fd73628c2db886174143a8.jpg",
+        "fluxmakeup": "img/0f49f0a2d416c9d6e5b9f065.jpg",
+        "stablemakeup": "img/a0023b7fa723e23a5f0af972.jpg"
+      }
+    },
+    {
+      "gid": "g89",
+      "src": "img/7ba9baf5cd80ea7fcaf75fa3.jpg",
+      "refs": [
+        {
+          "img": "img/679d9fb9e1022425c8696f1c.jpg",
+          "part": "eyes"
+        },
+        {
+          "img": "img/4d3615007e17a95e189b8551.jpg",
+          "part": "forehead"
+        },
+        {
+          "img": "img/4c84049a2284e7a62ada3639.jpg",
+          "part": "lips"
+        }
+      ],
+      "outputs": {
+        "ours": "img/340beb590d1b435f99a636eb.jpg",
+        "magicmakeup": "img/d3a70f996687a2e86536d3f2.jpg",
+        "art": "img/c841c8c6adc169e986bc2e91.jpg",
+        "fluxmakeup": "img/77a68f81889fd37647bf3beb.jpg",
+        "stablemakeup": "img/56ff8968218e36b2a69d5a93.jpg"
+      }
+    }
+  ],
+  "materials_sha256": "42cd723946b026b2f173930559a19c6caeb77df33f296d9e91e9087d0009f3e3"
+}

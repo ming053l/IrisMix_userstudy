@@ -1,0 +1,2 @@
+import {db,isOwner,json,manifest,config} from '@/lib/study';
+export async function GET(request:Request){if(!isOwner(request))return json({error:'Researcher access required'},403);const counts=await db().prepare('SELECT mode,is_test,COUNT(*) AS n FROM responses GROUP BY mode,is_test').all();return json({availability:manifest.availability,materials_sha256:manifest.materials_sha256,mode:manifest.mode,frozen:manifest.frozen,recruitment_open:config.recruitment_open,counts:counts.results});}
